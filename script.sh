@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Welcome to My Apache Server</title>
+    <title>Welcome to My Apache Servers</title>
     <style>
         body {
             background-color: #f8f9fa;
