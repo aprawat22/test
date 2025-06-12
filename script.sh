@@ -1,1 +1,1 @@
-q
+echo "hello world"
